@@ -66,7 +66,7 @@ function buildDocument(conversationTitle, conversationHTML)
     <html lang="de">
     <head>
         <meta charset="UTF-8">
-        <title>E${conversationTitle}</title>
+        <title>${conversationTitle}</title>
         <link rel="preload" href="https://cdn.oaistatic.com/_next/static/css/943d3bb12f23e4fe.css?dpl=7f79f217dddba3dc0f8a2845e2a9c1b16a374104" as="style" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdn.oaistatic.com/_next/static/css/943d3bb12f23e4fe.css?dpl=7f79f217dddba3dc0f8a2845e2a9c1b16a374104" crossorigin="anonymous" data-n-g="">
         <link rel="stylesheet" type="text/css" href="https://cdn.oaistatic.com/_next/static/css/b2b5486bcec590b9.css?dpl=7f79f217dddba3dc0f8a2845e2a9c1b16a374104" crossorigin="anonymous">
