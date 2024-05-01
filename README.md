@@ -47,6 +47,8 @@ Zum jetzigen Zeitpunkt ist die Entwicklung ein Kurzprojekt, weswegen ich nicht p
 
 ## Beispiel Export
 
+Schau dir [hier](readme/example.pdf) ein Beispiel für einen PDF Export an.
+
 ![Beispiel](readme/example.JPG)
 
 ## Mach mit!
