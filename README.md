@@ -1,5 +1,7 @@
 # Open-ChatGPT-Exporter
 
+**ACHTUNG: Aufgrund neuster Anpassungen von OpenAI ist das Plugin nicht mehr funktionsfähig. Ich plane derzeit keine Aktualisierung.**
+
 Open-ChatGPT-Exporter ist eine Google Chrome Erweiterung, zum Export von ChatGPT Konversationen. Durch einen Klick auf das Icon wird die aktiv geöffnete Konversation um alle Steuerelemente bereinigt und als .html Datei heruntergeladen. In dieser Form kann die Konversation lokal gespeichert, durchsucht oder einfach als PDF exportiert werden. Das ist besonders praktisch, wenn du eine informationsreiche Konversation mit anderen teilen möchtest. Zum jetzigen Zeitpunkt bietet OpenAI keine native Möglichkeit, GPT4 Konversationen mit nichtzahlenden Usern zu teilen.
 
 ![Beispiel](readme/plugin.JPG)
